@@ -1,0 +1,14 @@
+#containment-wrapper{
+	width:2643px;
+	height:3432px;
+	background-image: url('../assets/map.jpg');
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+.container{
+	/*border:2px solid #ccc;*/
+}
+.avatar{
+	position:absolute;
+	width:40px;
+}

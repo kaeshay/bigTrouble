@@ -1,0 +1,30 @@
+.background{
+	width:1000px;
+}
+.wide-background{
+	width:1300px;
+}
+.avatar{
+	width:100px;
+}
+.avatars{
+	position:absolute;
+	top:500px;
+	left:100px;
+	width:1200px;
+}
+.avatars img{
+	margin:-10px;
+}
+.item{
+	width:70px;
+}
+.effect{
+	display:none;
+	width:200px;
+}
+#effects{
+	position:absolute;
+	top:0px;
+	left:500px;
+}
