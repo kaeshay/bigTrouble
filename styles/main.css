@@ -8,7 +8,14 @@
 .container{
 	/*border:2px solid #ccc;*/
 }
+.player{
+	width:70px;
+}
 .avatar{
 	position:absolute;
-	width:40px;
+	width:70px;
+}
+.wide-avatar{
+	position:absolute;
+	width:120px;
 }
