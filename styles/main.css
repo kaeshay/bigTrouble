@@ -8,17 +8,24 @@
 .container{
 	/*border:2px solid #ccc;*/
 }
+.gone{
+	display:none;
+}
 .lemon{
 	width:70px;
 }
 .player{
-	width:70px;
+	width:100px;
 }
 .avatar{
 	position:absolute;
-	width:70px;
+	width:100px;
 }
 .wide-avatar{
 	position:absolute;
-	width:120px;
+	width:140px;
+}
+.vehicle{
+	position:absolute;
+	width:200px;
 }
