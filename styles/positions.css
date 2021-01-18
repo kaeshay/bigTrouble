@@ -4,6 +4,13 @@
 	left:1080px;
 	width:200px;
 }
+#cake{
+	position:absolute;
+	display:none;
+	top:1350px;
+	left:1580px;
+	width:200px;
+}
 .players{
 	position:absolute;
 	top:1250px;
